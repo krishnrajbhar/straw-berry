@@ -5,7 +5,7 @@
 
 - ðŸŒ± Iâ€™m currently learning **( Full Stack Development ) - Apna Collage ,( Namaste Javascript and Namaste React) in depth from Akshay Saini**
 
-- ðŸ‘¨â€ðŸ’» All of my projects are available at [https://github.com/krishnrajbhar/e-commerce-app-new.git](https://github.com/krishnrajbhar/e-commerce-app-new.git)
+- 👨‍💻 All of my projects are available at [https://github.com/krishnrajbhar?tab=repositories](https://github.com/krishnrajbhar?tab=repositories)
 
 - ðŸ’¬ Ask me about **Html,Css,Javascript,React js,Node js,MongoDB,MySQL,Express Js.**
 
